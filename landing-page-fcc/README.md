@@ -1,6 +1,12 @@
-Product Landing Page FCC
+# Product Landing Page FCC
 
- This app is published at https://korara78.github.io/landing-page-fcc/
+## Overview
+
+This is a basic product landing page with a drop-down menu containing in-page links. The theme of the product page is to feature 3 different levels of power drills. Beginner, Pro, and Expert. Personally, I'm a fan of Milwuakee and Rdgid products! I embedded a YouTube video and practiced with web responsiveness to ensure it does not dominate the page. An input field is featured on the buttom of the page to be added to a coupon email list. Its mainly for cosmetic use. I'll practice axios promise calls later on a different project (the GitHub Cards App project).  
+
+Based on the Freecodecamp.org projects towards the Responsive Web Design certification.
+
+This app is published at https://korara78.github.io/landing-page-fcc/
 
 # Getting Started with Create React App
 

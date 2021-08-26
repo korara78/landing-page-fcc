@@ -1,3 +1,7 @@
+Product Landing Page FCC
+
+ This app is published at https://korara78.github.io/landing-page-fcc/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
